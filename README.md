@@ -1,2 +1,2 @@
 # sequence
-[see on github.io](https://kamil-poncyliusz.github.io/sequence)
+[see on GitHub Pages](https://kamil-poncyliusz.github.io/sequence-game)
